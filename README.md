@@ -1,9 +1,9 @@
 Modify .zshrc
 
 ```
-plugins=(git zsh-autosuggestions)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
 ```
-ZSH_THEME="pure"
+ZSH_THEME="hyperzsh"
 ```
