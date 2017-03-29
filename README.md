@@ -5,5 +5,5 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
 ```
-ZSH_THEME="hyperzsh"
+ZSH_THEME="robbyrussell"
 ```
